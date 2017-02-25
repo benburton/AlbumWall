@@ -1,0 +1,664 @@
+[
+  {
+    "position": 1,
+    "artist": "The Beach Boys",
+    "album": "The Smile Sessions",
+    "favorite": 19,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Our Prayer",
+        "spotify": "spotify:track:1IysBwoeG9FSWCY8qLNqzL"
+      },
+      {
+        "number": 2,
+        "title": "Gee",
+        "spotify": "spotify:track:6xWqD2kBVYZ7JFEQzpJnN5"
+      },
+      {
+        "number": 3,
+        "title": "Heroes and Villains",
+        "spotify": "spotify:track:1dsggNRLTHQlYSyMQ4iLn2"
+      },
+      {
+        "number": 4,
+        "title": "Do You Like Worms (Roll Plymouth Rock)",
+        "spotify": "spotify:track:7gGLS9uolEcajaAtAd6e7W"
+      },
+      {
+        "number": 5,
+        "title": "I'm in Great Shape", 
+        "spotify": "spotify:track:4rJtXkpkvczcYOG1QcvdGA"
+      },
+      {
+        "number": 6,
+        "title": "Barnyard",
+        "spotify": "spotify:track:0qV9G76eiyQOUtbzem02Bp"
+      },
+      {
+        "number": 7,
+        "title": "My Only Sunshine (The Old Master Painter/You Are My Sunshine",
+        "spotify": "spotify:track:0i8a7bRTvIFllnSSqyBhRJ"
+      },
+      {
+        "number": 8,
+        "title": "Cabin Essence",
+        "spotify": "spotify:track:2ykZ1sBNcr4VsYpaAJFMu4"
+      },
+      {
+        "number": 9,
+        "title": "Wonderful",
+        "spotify": "spotify:track:5fQ7SBUlJeyl1nx4RmKIwb"
+      },
+      {
+        "number": 10,
+        "title": "Look (Song for Children)",
+        "spotify": "spotify:track:1Bp3bTDUmzuHGgJmkL6rGE"
+      },
+      {
+        "number": 11,
+        "title": "Child Is Father of the Man",
+        "spotify": "spotify:track:6XcB4Tb1ZM6igxq8eEYIUY"
+      },
+      {
+        "number": 12,
+        "title": "Surf's Up",
+        "spotify": "spotify:track:60c9YLRW2p9o0Dnc48cZoc"
+      },
+      {
+        "number": 13,
+        "title": "I Wanna Be Around / Workshop",
+        "spotify": "spotify:track:3vAQrn22AUioJ9qOxoJZln"
+      },
+      {
+        "number": 14,
+        "title": "Vega-Tables",
+        "spotify": "spotify:track:4lLw6YNzpJrnEW7ZFvJwhs"
+      },
+      {
+        "number": 15,
+        "title": "Holidays",
+        "spotify": "spotify:track:1SbINVeJ5C7OK9Yo3xJQb0"
+      },
+      {
+        "number": 16,
+        "title": "Wind Chimes",
+        "spotify": "spotify:track:2S58NhiZjZ5g45a9ya8hwW"
+      },
+      {
+        "number": 17,
+        "title": "The Elements: Fire (Mrs. O'Leary's Cow)",
+        "spotify": "spotify:track:3w75LMVt7xojsivvBaHB3Q"
+      },
+      {
+        "number": 18,
+        "title": "Love to Say Dada",
+        "spotify": "spotify:track:0Qcv1Wy6jEaPYiN2hir8yF"
+      },
+      {
+        "number": 19,
+        "title": "Good Vibrations",
+        "spotify": "spotify:track:234OatJElN7VHiznWuEuAx"
+      },
+      {
+        "number": 20,
+        "title": "You're Welcome",
+        "spotify": "spotify:track:74fOjvcwsZU862E94uwwMP"
+      },
+      {
+        "number": 21,
+        "title": "Heroes and Villains - Stereo Mix",
+        "spotify": "spotify:track:7u6x5pP8f8hc3Z2SmSKIwd"
+      },
+      {
+        "number": 22,
+        "title": "Heroes and Villains Sections - Stereo Mix",
+        "spotify": "spotify:track:4VOUjsXjq5OP8JiBqbNRp7"
+      },
+      {
+        "number": 23,
+        "title": "Vega-Tables - Demo",
+        "spotify": "spotify:track:7iVUjWA1NjACtQH3d7NnfJ"
+      },
+      {
+        "number": 24,
+        "title": "He Gives Speeches",
+        "spotify": "spotify:track:0QHY0uSj9zfY9lpUTACaud"
+      },
+      {
+        "number": 25,
+        "title": "Smile Backing Vocals Montage",
+        "spotify": "spotify:track:4P7c3vRQmtzq1fiPb2I0xz"
+      },
+      {
+        "number": 26,
+        "title": "Surf's Up 1967 - Solo Version",
+        "spotify": "spotify:track:0C9uCmroJIKf8ClqMOZ97j"
+      },
+      {
+        "number": 27,
+        "title": "Psycodelic Sounds: Brian Falls Into a Piano",
+        "spotify": "spotify:track:2CKoEojQ40Ze7U71DYp85f"
+      }
+    ]
+  },
+  {
+    "position": 2,
+    "artist": "Fugazi",
+    "album": "The Argument",
+    "favorite": 2,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Intro",
+        "spotify": "spotify:track:44ETQCGE31ypmEc5ut3WMe"
+      },
+      {
+        "number": 2,
+        "title": "Cashout",
+        "spotify": "spotify:track:44ETQCGE31ypmEc5ut3WMe"
+      },
+      {
+        "number": 3,
+        "title": "Full Disclosure",
+        "spotify": "spotify:track:5x5nJm3ZLs6T1vrFT2IiTE"
+      },
+      {
+        "number": 4,
+        "title": "Epic Problem",
+        "spotify": "spotify:track:4FCfHm8ua11n4ZlR5CZo1s"
+      },
+      {
+        "number": 5,
+        "title": "Life and Limb",
+        "spotify": "spotify:track:29Nd6Flp1ClfUVqHrIiGtk"
+      },
+      {
+        "number": 6,
+        "title": "The Kill",
+        "spotify": "spotify:track:4DsJWpynSUAN29wTCUGIpr"
+      },
+      {
+        "number": 7,
+        "title": "Strangelight",
+        "spotify": "spotify:track:62uCap25mL5XTZ8fd9tgSk"
+      },
+      {
+        "number": 8,
+        "title": "Oh",
+        "spotify": "spotify:track:5DvUI2CF13oE7r0R8k3ses"
+      },
+      {
+        "number": 9,
+        "title": "Ex-Spectator",
+        "spotify": "spotify:track:75jalTVnrHPg816taJNve8"
+      },
+      {
+        "number": 10,
+        "title": "Nightshop",
+        "spotify": "spotify:track:2uJWXWj0uhyXOTqXpl3903"
+      },
+      {
+        "number": 11,
+        "title": "Argument",
+        "spotify": "spotify:track:6a2Y5mQxG4Ij6hdy2yIjsX"
+      }
+    ]
+  },
+  {
+    "position": 3,
+    "artist": "Tycho",
+    "album": "Epoch",
+    "favorite": 6,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Gilder",
+        "spotify": "spotify:track:4cx6srR6OQzmd6mzpeaQsY"
+      },
+      {
+        "number": 2,
+        "title": "Horizon",
+        "spotify": "spotify:track:5WwaKGBmg0TpG8mRQpksl2"
+      },
+      {
+        "number": 3,
+        "title": "Slack",
+        "spotify": "spotify:track:1wJCpDiJeQccXuNguS8umH"
+      },
+      {
+        "number": 4,
+        "title": "Receiver",
+        "spotify": "spotify:track:78qM62MHvNxFJLpShqmq28"
+      },
+      {
+        "number": 5,
+        "title": "Epoch",
+        "spotify": "spotify:track:5EeNRe6Fi29tTrssVzl4dw"
+      },
+      {
+        "number": 6,
+        "title": "Division",
+        "spotify": "spotify:track:3Lr9aRWF57Dd8NsjeWTKNp"
+      },
+      {
+        "number": 7,
+        "title": "Source",
+        "spotify": "spotify:track:1Z5GCYgzsBxb9VUUVQRG2E"
+      },
+      {
+        "number": 8,
+        "title": "Local",
+        "spotify": "spotify:track:74fNA9uOtYFbkpG7gE8AKV"
+      },
+      {
+        "number": 9,
+        "title": "Rings",
+        "spotify": "spotify:track:5DQEWQoJ3deYCPkRIFm3Ci"
+      },
+      {
+        "number": 10,
+        "title": "Continuum",
+        "spotify": "spotify:track:7dYXMe7VAmmkKDyGByUOfM"
+      },
+      {
+        "number": 11,
+        "title": "Field",
+        "spotify": "spotify:track:3ozCQsJ9IA0v3ZlpE21UzK"
+      }
+    ]
+  },
+  {
+    "position": 3,
+    "artist": "Joy Division",
+    "album": "Love Will Tear Us Apart",
+    "favorite": 1,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Love Will Tear Us Apart",
+        "spotify": "spotify:track:1ZiZmjep6TYGdNJs6y7RsC"
+      },
+      {
+        "number": 2,
+        "title": "These Days",
+        "spotify": "spotify:track:7EySuoNulXmkiwNnyVaEdL"
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "artist": "Songs: Ohia",
+    "album": "Magnolia Electric Co.",
+    "favorite": 1,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Farewell Transmission",
+        "spotify": "spotify:track:4fkAWGCbxNizyNwsHlrajH"
+      },
+      {
+        "number": 2,
+        "title": "I've Been Riding With the Ghost",
+        "spotify": "spotify:track:0ds1WWFN1p0Gaw1HE4t73T"
+      },
+      {
+        "number": 3,
+        "title": "Just Be Simple",
+        "spotify": "spotify:track:3dyHwki3kH1HDn2kkmNTUQ"
+      },
+      {
+        "number": 4,
+        "title": "Almost Was Good Enough",
+        "spotify": "spotify:track:3sMGYJaM9pfIttVHokWQf0"
+      },
+      {
+        "number": 5,
+        "title": "The Old Black Hen",
+        "spotify": "spotify:track:3gDYPETbbMdCb3PZkXmNWn"
+      },
+      {
+        "number": 6,
+        "title": "Peoria Lunch Box Blues",
+        "spotify": "spotify:track:3oj4AKbwwSIQx7Ttnc2fOC"
+      },
+      {
+        "number": 7,
+        "title": "John Henry Split My Heart",
+        "spotify": "spotify:track:5oOZIqe9gaemH8rXnKKal2"
+      },
+      {
+        "number": 8,
+        "title": "Hold On Magnolia",
+        "spotify": "spotify:track:5qpMqMGCu9tXD4gNqtpxrT"
+      },
+      {
+        "number": 9,
+        "title": "Farewell Transmission - Demo",
+        "spotify": "spotify:track:6VgdD7eGMBfaptRZNV3u8U"
+      },
+      {
+        "number": 10,
+        "title": "I've Been Riding With the Ghost - Demo",
+        "spotify": "spotify:track:4hoJSadvQTknJNsoKkYCSK"
+      },
+      {
+        "number": 11,
+        "title": "Just Be Simple - Demo",
+        "spotify": "spotify:track:5B2lQ33Ab904O88XhIyhLV"
+      },
+      {
+        "number": 13,
+        "title": "The Old Black Hen - Demo",
+        "spotify": "spotify:track:01IDV5vlwNGPY4kfghzl75"
+      },
+      {
+        "number": 14,
+        "title": "Peoria Lunch Box Blues - Demo",
+        "spotify": "spotify:track:4UFAzeTadcqOAuieSdgz9o"
+      },
+      {
+        "number": 15,
+        "title": "John Henry Split My Heart - Demo",
+        "spotify": "spotify:track:3rKerSEsRqxMOmhGfwCMlm"
+      },
+      {
+        "number": 16,
+        "title": "Hold On Magnolia - Demo",
+        "spotify": "spotify:track:1B1GMC80Pie26w2Bfn2dT4"
+      },
+      {
+        "number": 17,
+        "title": "The Big Game Is Every Night",
+        "spotify": "spotify:track:4kISPETrsGiHnY5jd0iDgd"
+      },
+      {
+        "number": 18,
+        "title": "Whip-Poor-Will",
+        "spotify": "spotify:track:5uY9xESQhqZBjpA4m69LIj"
+      }
+    ]
+  },
+  {
+    "position": 5,
+    "artist": "The xx",
+    "album": "The xx",
+    "favorite": 1,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Intro",
+        "spotify": "spotify:track:0DAsxISzun85PbsqAfIzeC"
+      },
+      {
+        "number": 2,
+        "title": "VCR",
+        "spotify": "spotify:track:4vU90MimdQpV2e1wPi1ljJ"
+      },
+      {
+        "number": 3,
+        "title": "Crystalised",
+        "spotify": "spotify:track:1nmCmB3qdXrzxFhvLJuhuB"
+      },
+      {
+        "number": 4,
+        "title": "Islands",
+        "spotify": "spotify:track:27BpBnTNtY9SBrE3EusnM6"
+      },
+      {
+        "number": 5,
+        "title": "Heart Skipped A Beat",
+        "spotify": "spotify:track:1O4pg2612aT6PGCAp6Wt1V"
+      },
+      {
+        "number": 6,
+        "title": "Fantasy",
+        "spotify": "spotify:track:0AdA0M0xJSlWwGjiSdoSSy"
+      },
+      {
+        "number": 7,
+        "title": "Shelter",
+        "spotify": "spotify:track:5YeF3yVKzbxW1KI4kPcSVo"
+      },
+      {
+        "number": 8,
+        "title": "Basic Space",
+        "spotify": "spotify:track:4ORbUYpR6MDsJYTHh3xBWH"
+      },
+      {
+        "number": 9,
+        "title": "Infinity",
+        "spotify": "spotify:track:17eEVo7K960G9wGKNS6rag"
+      },
+      {
+        "number": 10,
+        "title": "Night Time",
+        "spotify": "spotify:track:5xkNgedTp6xrbqt5gdq6TE"
+      },
+      {
+        "number": 11,
+        "title": "Stars",
+        "spotify": "spotify:track:57x3uHJoS1IaJ7XgCGeMtM"
+      }
+    ]
+  },
+  {
+    "position": 6,
+    "aritst": "Frank Ocean",
+    "album": "channel ORANGE",
+    "favorite": 16,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Start",
+        "spotify": "spotify:track:0GAE689kVy7sFT2QWZH1Xa"
+      },
+      {
+        "number": 2,
+        "title": "Thinking About You",
+        "spotify": "spotify:track:7DfFc7a6Rwfi3YQMRbDMau"
+      },
+      {
+        "number": 3,
+        "title": "Fertilizer",
+        "spotify": "spotify:track:6jypaMkKsoc5npsVzxhksl"
+      },
+      {
+        "number": 4,
+        "title": "Sierra Leone",
+        "spotify": "spotify:track:1HwbgJAU9PZ7YbzKgVgoIF"
+      },
+      {
+        "number": 5,
+        "title": "Sweet Life",
+        "spotify": "spotify:track:6MEDfjHxnVNcYmHe3mM6L2"
+      },
+      {
+        "number": 6,
+        "title": "Not Just Money",
+        "spotify": "spotify:track:3iW3y326xuRpNVXzOMBZy5"
+      },
+      {
+        "number": 7,
+        "title": "Super Rich Kids",
+        "spotify": "spotify:track:0725YWm6Z0TpZ6wrNk64Eb"
+      },
+      {
+        "number": 8,
+        "title": "Pilot Jones",
+        "spotify": "spotify:track:2ohegz9maxzroKBu9YhcCM"
+      },
+      {
+        "number": 9,
+        "title": "Crack Rock",
+        "spotify": "spotify:track:5lcyIeEfwZTs8Ajw3kdF7P"
+      },
+      {
+        "number": 10,
+        "title": "Pyramids",
+        "spotify": "spotify:track:4QhWbupniDd44EDtnh2bFJ"
+      },
+      {
+        "number": 11,
+        "title": "Lost",
+        "spotify": "spotify:track:3GZD6HmiNUhxXYf8Gch723"
+      },
+      {
+        "number": 12,
+        "title": "White",
+        "spotify": "spotify:track:1VMdwVq0yaTc4DeqSCi7DO"
+      },
+      {
+        "number": 13,
+        "title": "Monks",
+        "spotify": "spotify:track:0msrDPXxZpts4FRnoX0bFr"
+      },
+      {
+        "number": 14,
+        "title": "Bad Religion",
+        "spotify": "spotify:track:2pMPWE7PJH1PizfgGRMnR9"
+      },
+      {
+        "number": 15,
+        "title": "Pink Matter",
+        "spotify": "spotify:track:1fOkmYW3ZFkkjIdOZSf596"
+      },
+      {
+        "number": 16,
+        "title": "Forrest Gump",
+        "spotify": "spotify:track:4YZbVct8l9MnAVIROnLQdx"
+      },
+      {
+        "number": 17,
+        "title": "End",
+        "spotify": "spotify:track:05tFLPSXJ1BbqIXy4Jeqfh"
+      }
+    ]
+  },
+  {
+    "position": 7,
+    "artist": "Eric Clapton",
+    "album": "Slow Hand",
+    "favorite": 1,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Cocaine",
+        "spotify": "spotify:track:3ykSdTGmYPFl8pDBXer1zG"
+      },
+      {
+        "number": 2,
+        "title": "Wonderful Tonight",
+        "spotify": "spotify:track:6zC0mpGYwbNTpk9SKwh08f"
+      },
+      {
+        "number": 3,
+        "title": "Lay Down Sally",
+        "spotify": "spotify:track:6io0LJIP9ntX35hTfaxwQG"
+      },
+      {
+        "number": 4,
+        "title": "Next Time You See Her",
+        "spotify": "spotify:track:19IjIGFbmQW4JSVNEdWpk0"
+      },
+      {
+        "number": 5,
+        "title": "We're All The Way",
+        "spotify" : "spotify:track:1jAVVr5Io2r7nBXNEifqL0"
+      },
+      {
+        "number": 6,
+        "title": "The Core",
+        "spotify": "spotify:track:62DOxN9FeTsR0J0ccnBhMu"
+      },
+      {
+        "number": 7,
+        "title": "May You Never",
+        "spotify": "spotify:track:3D9uJNV5I1kGShAQ5jRehm"
+      },
+      {
+        "number": 8,
+        "title": "Mean Old Frisco Blues",
+        "spotify": "https://open.spotify.com/track/08ZN4WqgIXm1mbUYALht1u"
+      },
+      {
+        "number": 9,
+        "title": "Peaches And Diesel",
+        "spotify": "spotify:track:2nqesy7vSlS8QKWE1zgUfE"
+      }
+    ]
+  },
+  {
+    "position": 8,
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "favorite": 6,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Outside",
+        "spotify": "spotify:track:2VtpdevRsfoxtWlnVm1l8A"
+      },
+      {
+        "number": 2,
+        "title": "Fire Fly",
+        "spotify": "spotify:track:06WD650Zt5MQ55kFMP2f3r"
+      },
+      {
+        "number": 3,
+        "title": "Bonfire",
+        "spotify": "spotify:track:4zGvb8hxGLB2jEPRFiRRqw"
+      },
+      {
+        "number": 4,
+        "title": "All The Shine",
+        "spotify": "spotify:track:2ZBr6a8ecFqLJA0lcvFPCc"
+      },
+      {
+        "number": 5,
+        "title": "Letter Home",
+        "spotify": "spotify:track:076K8Jg7xmjCMn816yZboV"
+      },
+      {
+        "number": 6,
+        "title": "Heartbeat",
+        "spotify": "spotify:track:3HooZZPp0evFShqaJ2Pwer"
+      },
+      {
+        "number": 7,
+        "title": "Backpackers",
+        "spotify": "spotify:track:03ImchswSXPA2KzLrc9hAL"
+      },
+      {
+        "number": 8,
+        "title": "L.E.S.",
+        "spotify": "spotify:track:2KMCM2dirSnthfYKNjS8iT"
+      },
+      {
+        "number": 9,
+        "title": "Hold You Down",
+        "spotify": "spotify:track:4wv0lOxuHGbnLXVBFmxfxy"
+      },
+      {
+        "number": 10,
+        "title": "Kids (Keep Up)",
+        "spotify": "spotify:track:3z1eL3iolJSdiYEEodX1k0"
+      },
+      {
+        "number": 11,
+        "title": "You See Me",
+        "spotify": "spotify:track:1eEPKr5gzWVSZKiMWIMZYa"
+      },
+      {
+        "number": 12,
+        "title": "Sunshine",
+        "spotify": "spotify:track:5hMxgvMmI99alD8JJpjO0w"
+      },
+      {
+        "number": 13,
+        "title": "That Power",
+        "spotify": "spotify:track:6O8iT490HuTFVjQo3eHdoi"
+      }
+    ]
+  }
+]
